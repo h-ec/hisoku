@@ -1,0 +1,4 @@
+{
+  "name": "node",
+  "module": "./node_module_test.js"
+}
